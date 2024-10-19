@@ -102,7 +102,7 @@ export default function Page() {
 {/* --------------------------------------------------------------------------------- */}
 
 
-{weburl}
+ 
 <header id='header'>
     <button onClick={Clickitem} className='Clickitem'>
         <div className="item">
@@ -116,7 +116,7 @@ export default function Page() {
 </header>
 
 
-{weburl}
+ 
   
     <div className="container-xxl py-5">
         <div className="container">
